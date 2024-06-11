@@ -1,7 +1,6 @@
 # Hi there, I'm Md Shakil Ahmmed 👋
 
-![Coding GIF](https://lottie.host/embed/17e9b58f-7251-46b0-9147-2d82c981a240/oo8OIRWCEF.json)
-
+![Coding GIF](https://lottie.host/b3b5ad91-5864-40ae-8084-e7f4f340da64/NLAo4tQKha.lottie)
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
 ## 🛠️ Technologies & Tools
