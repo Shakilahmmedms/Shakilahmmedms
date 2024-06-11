@@ -1,6 +1,6 @@
 # Hi there, I'm Md Shakil Ahmmed 👋
 
-![Banner]([https://your-image-url.com/banner.png](https://lottie.host/embed/17e9b58f-7251-46b0-9147-2d82c981a240/oo8OIRWCEF.json))
+![Banner](https://lottie.host/embed/17e9b58f-7251-46b0-9147-2d82c981a240/oo8OIRWCEF.json)
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Shakilahmmedms&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 🌐 Connect with Me
 
