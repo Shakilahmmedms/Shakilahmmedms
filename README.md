@@ -1,30 +1,58 @@
-<h1 align="center">Hi 👋, I'm Md Shakil Ahmmed</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+# Hi there, I'm Md Shakil Ahmmed 👋
 
-# 💫 About Me:
- I’m currently working on Xerorx Shope<br> I’m currently learning Python, Django, and Ract.js<br> How to reach me shakilahmmed8906@gmail.com
+![Banner]([https://your-image-url.com/banner.png](https://lottie.host/embed/17e9b58f-7251-46b0-9147-2d82c981a240/oo8OIRWCEF.json))
+
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-ff1709?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+## 🔭 What I'm Working On
+
+- Building scalable web applications with Django and React.
+- Exploring advanced concepts in REST API development.
+- Contributing to open-source projects.
+- Learning about cloud infrastructure and DevOps practices.
+
+## 🌱 What I'm Learning
+
+- Advanced React patterns and state management.
+- Performance optimization techniques for Django applications.
+- Docker and container orchestration.
+
+## 💼 Professional Skills
+
+- **Backend Development**: Python, Django, Django Rest Framework, SQL (MySQL, PostgreSQL)
+- **Frontend Development**: JavaScript, React.js, HTML, CSS
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, RESTful APIs
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shakildms/))
+- Twitter: [Your Twitter Handle]([https://twitter.com/your-handle](https://x.com/ShakilA83852263))
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakil.ahmmedbd.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakildms) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShakilA83852263) 
+## 🎉 Fun Fact
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shakilahmmedms&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilahmmedms&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shakilahmmedms&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shakilahmmedms&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I love solving complex problems and turning ideas into reality through code. When I'm not coding, you might find me exploring nature, reading a book, or playing video games.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shakilahmmedms&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
