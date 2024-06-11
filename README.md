@@ -45,16 +45,12 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shakildms/)
-- Twitter: [Twitter Handle](https://x.com/ShakilA83852263)
+- [LinkedIn](https://www.linkedin.com/in/shakildms/)
+- [Twitter](https://x.com/ShakilA83852263)
+- [Facebook](https://www.facebook.com/shakil.ahmmedbd.3)
 
 
-## 🎉 Fun Fact
-
-
-I love solving complex problems and turning ideas into reality through code. When I'm not coding, you might find me exploring nature, reading a book, or playing video games.
-
----
+I love solving complex problems and turning ideas into reality through code. You might find me exploring nature, reading a book, or playing video games when I'm not coding.
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
