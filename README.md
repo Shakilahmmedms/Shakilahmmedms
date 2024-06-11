@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
+
 <div >
     <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif"  height="300" />
 </div>
@@ -44,8 +45,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shakildms/))
-- Twitter: [Your Twitter Handle]([https://twitter.com/your-handle](https://x.com/ShakilA83852263))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shakildms/)
+- Twitter: [Twitter Handle](https://x.com/ShakilA83852263)
 
 
 ## 🎉 Fun Fact
