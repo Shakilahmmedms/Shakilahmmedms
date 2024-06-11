@@ -1,6 +1,10 @@
 # Hi there, I'm Md Shakil Ahmmed 👋
 
-![Coding GIF](https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif)
+
+
+<div align="center">
+    <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" width="600" height="300" />
+</div>
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
@@ -48,7 +52,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 🎉 Fun Fact
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 I love solving complex problems and turning ideas into reality through code. When I'm not coding, you might find me exploring nature, reading a book, or playing video games.
 
