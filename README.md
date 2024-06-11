@@ -1,12 +1,10 @@
 # Hi there, I'm Md Shakil Ahmmed 👋
 
-
-
-<div align="center">
-    <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" width="600" height="300" />
-</div>
-
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
+
+<div >
+    <img src="https://lottie.host/embed/b3b5ad91-5864-40ae-8084-e7f4f340da64/NLAo4tQKha.lottie" />
+</div>
 
 ## 🛠️ Technologies & Tools
 
