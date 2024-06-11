@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 <div >
     <img src="https://lottie.host/embed/b3b5ad91-5864-40ae-8084-e7f4f340da64/NLAo4tQKha.lottie" />
 </div>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/b3b5ad91-5864-40ae-8084-e7f4f340da64/NLAo4tQKha.lottie" background="transparent" speed="1" style="width: 300px; height: 200px" direction="1" playMode="normal" loop controls autoplay></dotlottie-player>
 
 ## 🛠️ Technologies & Tools
 
