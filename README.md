@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 
 <div >
-    <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/coding.gif"   />
+     <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" />
 </div>
 
 ## 🛠️ Technologies & Tools
