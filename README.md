@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+- [C Compiler (GCC)](https://gcc.gnu.org/) - Required for C projects.
+- [C++ Compiler (G++ or Clang)](https://gcc.gnu.org/) - Required for C++ projects.
 
 ## 🔭 What I'm Working On
 
