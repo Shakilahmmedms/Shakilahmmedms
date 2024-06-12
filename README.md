@@ -2,24 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
-## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
-## Prerequisites
-
-List the prerequisites needed to run the project.
-
-- [SAP Cloud Platform](https://www.sap.com/products/cloud-platform.html)
-- [Node.js](https://nodejs.org/) (if applicable)
-- [SAP Cloud SDK](https://github.com/SAP/cloud-sdk)
-- Any other relevant dependencies
 
 <div >
      <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" height='400' />
