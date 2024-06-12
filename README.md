@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
-
-
-<div >
+<div align="center">
      <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" height='400' />
 </div>
 
@@ -19,8 +17,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- [C Compiler (GCC)](https://gcc.gnu.org/) - Required for C projects.
-- [C++ Compiler (G++ or Clang)](https://gcc.gnu.org/) - Required for C++ projects.
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-333333?style=flat&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake)
 
 ## 🔭 What I'm Working On
 
@@ -39,6 +39,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 - **Backend Development**: Python, Django, Django Rest Framework, SQL (MySQL, PostgreSQL)
 - **Frontend Development**: JavaScript, React.js, HTML, CSS
+- **Systems Programming**: C, C++
+- **Build Tools**: GCC, CMake
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, RESTful APIs
 
@@ -52,8 +54,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 - [Twitter](https://x.com/ShakilA83852263)
 - [Facebook](https://www.facebook.com/shakil.ahmmedbd.3)
 
-
 I love solving complex problems and turning ideas into reality through code. You might find me exploring nature, reading a book, or playing video games when I'm not coding.
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
-
