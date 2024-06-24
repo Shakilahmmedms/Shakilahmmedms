@@ -6,6 +6,12 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
      <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" height='400' />
 </div>
 
+
+### SAP Technologies
+![ABAP](https://img.shields.io/badge/ABAP-0A66C2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0A66C2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0A66C2?style=for-the-badge&logo=sap&logoColor=white)
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
