@@ -2,9 +2,9 @@
   <img src="https://github.com/Shakilahmmedms/Shakilahmmedms/blob/main/forgit.png" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Full+Stack+developer;Web+Application+Developer;Dreamer)](https://git.io/typing-svg)
-</div>
+
 
 Welcome to my GitHub profile! 
 I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
