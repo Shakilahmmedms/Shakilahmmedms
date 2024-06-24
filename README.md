@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/shakildms/)
+- [LinkedIn](https://www.linkedin.com/in/shakil-ahmmed-se/)
 - [Twitter](https://x.com/ShakilA83852263)
 - [Facebook](https://www.facebook.com/shakil.ahmmedbd.3)
 
