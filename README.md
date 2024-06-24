@@ -3,13 +3,8 @@
 
 
 
-Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
-
-<div align="center">
-     <img src="https://github.com/Shakilahmmedms/xerox_shop/blob/main/images/pic5.gif" height='400' />
-</div>
-
-
+Welcome to my GitHub profile! 
+I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
 ## 🛠️ Technologies & Tools
 
