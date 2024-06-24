@@ -47,9 +47,19 @@ I'm a passionate software engineer with expertise in building web applications u
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, RESTful APIs
 
+
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilahmmedms&layout=compact&theme=radical)](https://github.com/Shakilahmmedms/github-readme-stats)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Shakilahmmedms&theme=onedark)
+
 
 ## 🌐 Connect with Me
 
