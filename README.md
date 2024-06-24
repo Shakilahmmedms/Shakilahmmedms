@@ -1,7 +1,7 @@
 # Hi there, I'm Md Shakil Ahmmed 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Full+Stack+developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Web+Application+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Dreamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Full+Stack+developer;Web+Application+Developer;Dreamer)](https://git.io/typing-svg)
+
+
 
 Welcome to my GitHub profile! I'm a passionate software engineer with expertise in building web applications using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
