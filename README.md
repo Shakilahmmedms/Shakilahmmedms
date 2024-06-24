@@ -2,9 +2,10 @@
   <img src="https://github.com/Shakilahmmedms/Shakilahmmedms/blob/main/forgit.png" />
 </div>
 
-# Hi there, I'm Md Shakil Ahmmed 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Full+Stack+developer;Web+Application+Developer;Dreamer)](https://git.io/typing-svg)
+<div algin="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF6E&random=false&width=435&lines=Full+Stack+developer;Web+Application+Developer;Dreamer)](https://git.io/typing-svg)
 
+</div>
 
 
 Welcome to my GitHub profile! 
