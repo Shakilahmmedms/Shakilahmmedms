@@ -49,18 +49,15 @@ I'm a passionate software engineer with expertise in building web applications u
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Shakil's GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Shakilahmmedms&theme=onedark" alt="Shakil's GitHub Trophies">
-    </td>
-  </tr>
-</table>
+
 
 ## 📈 GitHub Stats
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Shakil's GitHub Stats" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilahmmedms&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;">
+</div>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakilahmmedms&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
