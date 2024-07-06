@@ -46,8 +46,6 @@ I'm a passionate software engineer with expertise in building web applications u
   ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-00599C?style=for-the-badge&logo=api&logoColor=white)
 </div>
 
-<div style="clear: both;"></div>
-
 
 ## 📈 GitHub Stats
 
