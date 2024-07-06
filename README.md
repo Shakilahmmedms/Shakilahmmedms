@@ -74,4 +74,4 @@ I'm a passionate software engineer with expertise in building web applications u
 
 I love solving complex problems and turning ideas into reality through code. You might find me exploring nature, reading a book, or playing video games when I'm not coding.
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+Feel free to reach out at shakilahmmed8906@gmail.com if you want to collaborate on a project or just chat about tech!
