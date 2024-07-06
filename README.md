@@ -45,16 +45,11 @@ I'm a passionate software engineer with expertise in building web applications u
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Build Tools
-![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gnu&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Other Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-00599C?style=flat&logo=api&logoColor=white)
 
 
